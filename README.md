@@ -1,6 +1,8 @@
 # 🌈 Boorin  
 ### “Bugün ne yapsam?” sorusuna yanıt veren eğlenceli bir mini web uygulaması 💡  
 
+<img width="596" height="305" alt="image" src="https://github.com/user-attachments/assets/72e44bc8-170c-47b0-8742-18aeae71a3e0" />
+
 ---
 
 ## 🧠 Hakkında  
