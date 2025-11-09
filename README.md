@@ -105,14 +105,8 @@ Katkı sağlamak istiyorsan:
 
 ---
 
-## 📜 Lisans  
-Bu proje **MIT Lisansı** altında sunulmaktadır.  
-Detaylar için `LICENSE` dosyasına göz atabilirsiniz.  
-
----
-
 ## 👨‍🎨 Geliştirici  
-**Sermest Sel**  
+**Sermestsel**  
 📎 GitHub: [Sermestsel](https://github.com/Sermestsel/Boorin)  
 💬 “Sıkılmak bazen ilhamın ilk adımıdır.”  
 
