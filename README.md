@@ -1,2 +1,2 @@
 # Boorin
-Sıkıntı Giderici Test Uygulaması
+Sıkıntı Giderici Test Uygulaması.
